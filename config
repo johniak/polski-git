@@ -7,10 +7,11 @@
 	przelacz = checkout
 	kopia = clone
 	pobierz = fetch
-	pociagnij = pull
-	wypchnij = push
+	ciagnij = pull
+	pchaj = push
 	pomoc = --help
 	ojtam = push origin --force
 	etykieta = tag
 	stan = status
+	ups = reset --hard
 	drzewo = log --oneline --decorate --graph
