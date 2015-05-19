@@ -1,0 +1,16 @@
+[alias]
+	ktopopsul = blame
+	galaz = branch
+	zatwierdz = commit
+	dodaj = add
+	utworz = init
+	przelacz = checkout
+	kopia = clone
+	pobierz = fetch
+	pociagnij = pull
+	wypchnij = push
+	pomoc = --help
+	ojtam = push origin --force
+	etykieta = tag
+	stan = status
+	drzewo = log --oneline --decorate --graph
